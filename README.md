@@ -64,5 +64,7 @@ Student-Performance-Analysis/
 ## 👨‍💻 Author
 
 PJ Renu
-*Aspiring Data Analyst
-*Skilled in Power BI, SQL, Excel, Python, and Data Visualization
+ 
+ *Aspiring Data Analyst
+ 
+ *Skilled in Power BI, SQL, Excel, Python, and Data Visualization
