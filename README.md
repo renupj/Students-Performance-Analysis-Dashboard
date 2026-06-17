@@ -41,10 +41,6 @@ Student-Performance-Analysis/
 └── README.md
 
 
-## 📸 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
 ## 🎯 Objectives
 
 - Analyze student academic performance
